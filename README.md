@@ -38,3 +38,6 @@ The Wild Oasis prioritizes security and access control. Our system provides:
 * React query
 * Supabase
 * Styled with css styled components
+
+## Note
+Editing, deleting and uploading might be stopped after a week from deployment of the project due to the free plan offered by supabase.  
