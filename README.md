@@ -2,7 +2,7 @@
 Welcome to The Wild Oasis Hotel Management System, a modern and feature-rich application built using React, React Query, Styled Components, and Supabase. This system is designed to help hotel managers streamline their operations, from managing cabins and bookings to monitoring check-ins and sales. With a user-friendly dashboard, dark mode and light mode options, and robust authentication and authorization.
 
 ## Preoject Demo
-The app is deployed to vercel through [The-Wild_oasis](https://wild-oasis-mourad.vercel.app/)
+The app is deployed to vercel through [The-Wild-oasis](https://wild-oasis-mourad.vercel.app/)
 
 ## Features
 ### Dashboard
